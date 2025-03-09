@@ -1,4 +1,4 @@
-# Project Overview
+## Project Overview
 
 Built a RESTful API using Flask to recommend courses based on content similarity:
 
